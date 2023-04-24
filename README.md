@@ -1,7 +1,6 @@
 # :snowboarder: Snow Boarder
 
-Put that board under your feet and spin-up some sick tricks, reach the end and win!
-\n
+Put that board under your feet and spin-up some sick tricks, reach the end and win! <br />
 A simple sprite shape level with some particle systems, follow camera, all propelled by a Surface Effector.
 
 ## :keyboard: How to use
