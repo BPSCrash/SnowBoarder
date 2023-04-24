@@ -1,7 +1,7 @@
-# :truck: Snow Boarder
+# :snowboarder: Snow Boarder
 
-Basic DHL training guide - grab box - dropkick it - deliver it
-Not really a full game just some simple pick-up and drop off mechanics while driving a cool car
+Put that board under your feet and spin-up some sick tricks, reach the end and win!
+A simple sprite shape level with some particle systems, follow camera, all propelled by a Surface Effector.
 
 ## :keyboard: How to use
 
