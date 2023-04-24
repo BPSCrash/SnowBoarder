@@ -5,10 +5,9 @@ A simple sprite shape level with some particle systems, follow camera, all prope
 
 ## :keyboard: How to use
 
-- Arrow keys to drive :car:
-- Pick up the red Squares :b:
-- Deliver to red Circle :red_circle:
-- Boost on the Blue Triangles :arrow_up_small:
+- Left/Right Arrow keys to rotate :arrows_clockwise:
+- Up Arrow to get a speed boost while on ground :sparkles::athletic_shoe:
+- Reach the finish line :checkered_flag:
 
 ## :camera_flash: Caught in (almost) 4K
 This was my first dabble with Unity to familiarize myself with the interface
