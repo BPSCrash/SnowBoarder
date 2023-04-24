@@ -10,6 +10,6 @@ A simple sprite shape level with some particle systems, follow camera, all prope
 - Reach the finish line :checkered_flag:
 
 ## :camera_flash: Caught in (almost) 4K
-This was my first dabble with Unity to familiarize myself with the interface
+For this project I learned about particle systems, and using cinemachine.
 
 ![](https://github.com/BPSCrash/SnowBoarder/blob/main/snowboarder.png)
